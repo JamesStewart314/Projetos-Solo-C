@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1692340770 source:c:\users\allbe\onedrive\Área de trabalho\todas as pastas\programas\calculadora code blocks\calculadoraproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	"math_custom.h"
+
+1692328398 c:\users\allbe\onedrive\Área de trabalho\todas as pastas\programas\calculadora code blocks\calculadoraproj\math_custom.h
+	<stdio.h>
+
+1692338358 source:c:\users\allbe\onedrive\Área de trabalho\todas as pastas\programas\calculadora code blocks\calculadoraproj\math_custom.c
+	"math_custom.h"
+
